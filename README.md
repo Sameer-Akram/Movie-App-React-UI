@@ -1,3 +1,10 @@
+
+https://github.com/Sameer-Akram/Movie-App-React-UI/assets/99664596/83decc06-ef3b-4a82-876b-23fcdfdde188
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
